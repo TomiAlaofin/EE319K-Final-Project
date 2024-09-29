@@ -1,6 +1,5 @@
-// Lab9Main.c
+// ProjectMeltdown.c
 // Runs on MSPM0G3507
-// Lab 9 ECE319K
 // Tomi Alaofin, Ben Huynh
 // Last Modified: 04/15/2024
 
